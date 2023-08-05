@@ -1,0 +1,5 @@
+2023-08-06 00:49:46.263478 - Initialized conversion of CBT092
+2023-08-06 00:49:46.281796 - Received CBT.V505.FILE092.PDS from FILE092.XMI 
+2023-08-06 00:49:46.283767 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE092.PDS, moved to PDS/$$$#DATE
+2023-08-06 00:49:46.284886 - Found @FILE092.txt (text/plain) in CBT.V505.FILE092.PDS, moved to PDS/@FILE092
+2023-08-06 00:49:46.285958 - Found DESCRIPT.txt (text/plain) in CBT.V505.FILE092.PDS, moved to PDS/DESCRIPT
